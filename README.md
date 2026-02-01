@@ -57,6 +57,7 @@ https://github.com/Day2S/ProfessionMaster/releases
 
 # Способ 2: Через менеджера плагинов
 # (укажите ваш способ распространения)
+```
 
 ### Шаг 2: Установить на сервер
 ```bash
@@ -64,6 +65,7 @@ https://github.com/Day2S/ProfessionMaster/releases
 2. Поместите ProfessionMaster.jar в папку plugins/
 3. Запустите сервер
 4. Плагин создаст конфигурационные файлы автоматически
+```
 
 ### Шаг 3: Базовая настройка
 ```bash
@@ -76,3 +78,4 @@ allow-profession-change: false
 # Автоназначение профессии новым игрокам
 auto-assign: false
 auto-assign-profession: NONE  # HUNTER, FARMER, LUMBERJACK, MINER
+```
