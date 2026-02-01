@@ -57,3 +57,18 @@ https://github.com/Day2S/ProfessionMaster/releases
 
 # Способ 2: Через менеджера плагинов
 # (укажите ваш способ распространения)
+
+1. Остановите сервер
+2. Поместите ProfessionMaster.jar в папку plugins/
+3. Запустите сервер
+4. Плагин создаст конфигурационные файлы автоматически
+
+# Минимальный уровень для выбора профессии
+min-level: 10
+
+# Можно ли менять профессию после выбора?
+allow-profession-change: false
+
+# Автоназначение профессии новым игрокам
+auto-assign: false
+auto-assign-profession: NONE  # HUNTER, FARMER, LUMBERJACK, MINER
