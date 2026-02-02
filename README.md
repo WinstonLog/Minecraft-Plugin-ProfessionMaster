@@ -79,3 +79,11 @@ allow-profession-change: false
 auto-assign: false
 auto-assign-profession: NONE  # HUNTER, FARMER, LUMBERJACK, MINER
 ```
+
+<div align="center">
+✨ Сделано с ❤️ для сообщества Minecraft
+EnchantedRecord — ваш надежный инструмент для управления зачарованиями!
+
+⭐ Если вам нравится плагин, поставьте звезду на GitHub!
+
+</div>
