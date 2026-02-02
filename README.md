@@ -1,9 +1,6 @@
 # 🎮 ProfessionMaster - Система профессий для Minecraft
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.16+-brightgreen?style=for-the-badge&logo=minecraft)
-![Spigot](https://img.shields.io/badge/Spigot-1.16+-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-yellow?style=for-the-badge)
+<p align="center"> <img src="https://img.shields.io/badge/Minecraft-1.16.5+-success" alt="Minecraft Version"> <img src="https://img.shields.io/badge/Spigot-Compatible-blue" alt="Spigot"> <img src="https://img.shields.io/badge/Paper-Compatible-green" alt="Paper"> <img src="https://img.shields.io/badge/License-MIT-orange" alt="License"> </p><p align="center"> 
 
 **ProfessionMaster** - уникальный плагин для Minecraft серверов, добавляющий систему постоянных профессий с глубокой интеграцией в игровой процесс.
 
